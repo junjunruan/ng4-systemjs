@@ -13,7 +13,9 @@ This repo is forked from [angular.io quickstart], then added a third party libra
 3. Run command `yarn run start` to run the application
 
 4. Because of CORS issue during access the cloud image (see details: http://rawgit.com/chafey/cornerstoneWebImageLoader/master/examples/index.html), open a new terminal and do the following steps to fix it:
+
    4.1 run `mkdir /tmp/chrome_dev_session` to create chrome_dev_session folder under tmp
+   
    4.2 run `open -n -a /Applications/Google\ Chrome.app --args --user-data-dir="/tmp/chrome_dev_session" --disable-web-security` to start a Chrome without security check.
 
 5. Visit `http://localhost:3000/` in new started Chrome.
