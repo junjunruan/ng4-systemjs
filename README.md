@@ -22,6 +22,6 @@ This repo is forked from [angular.io quickstart], then added a third party libra
 
 6. Click "window leveling" button multiple times, the time cost of for loop from cornerstone library will output in the console. The performance is pretty good.
 
-<a href="https://imgur.com/J33noLt"><img src="https://i.imgur.com/J33noLt.png" title="source: imgur.com" width="400" /></a>
+<a href="https://imgur.com/Zc1LY6A"><img src="https://i.imgur.com/Zc1LY6A.png" title="source: imgur.com" width="300"/></a>
 
 
